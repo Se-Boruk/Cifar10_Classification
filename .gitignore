@@ -1,0 +1,13 @@
+# Ignore everything in these directories
+DataSet/*
+DataSet_Processed/*
+Models_saved/*
+
+Actual_Best_Result/*
+!Actual_Best_Result/Download_link.txt
+
+__pycache__/*
+
+
+
+
