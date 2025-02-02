@@ -6,7 +6,8 @@
 This project aims to achieve human like accuracy of prediction on Cifar10 dataset (94%), using library NeuroUtils. 
 
 ## Description
-Cifar10 classification task is widely known and recognizable as simple benchmark for many neural network architectures. It contains 10 classes of 32x32 RGB  images, and each of them contains 6k of samples:
+Cifar10 classification task is widely known and recognizable as simple benchmark for many neural network architectures. It contains 10 classes of 32x32 RGB  images, and each of them contains 6k of samples:  
+
 airplane - automobile - bird - cat - deer - dog - frog - horse - ship - truck
 ## Results
 - **F scores analysis plots**
@@ -42,6 +43,8 @@ You will find there step by step instructions and my last configuration of the m
 In fact, all files you need is **main** file and if you want to use architecture I used, you will find it in **architectures.py**, but you can your own as well. 
 All necessary folders and files will be created after you run the project so make sure to put it in some separate folder. 
 This project's goal was to use NeuroUtils library, so I highly recommend to use it's tutorial on main page, if you want to experiment.
+
+Anyway, most of the hyperparameters are included in model report and you can acces all of them (including architecture.json file) by **Actual_best_result**, so you can make it on your own by your own methods using these parameters :)
 
 
 ## Feedback
