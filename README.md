@@ -1,7 +1,7 @@
 
 # Cifar10 Human-like classification
 ### Project is based on library NeuroUtils
-[![Static Badge](https://img.shields.io/badge/NeuroUtils_GitHub-0.2.3-purple)](https://github.com/Ciapser/NeuroUtils) [![Static Badge](https://img.shields.io/badge/NeuroUtils_PyPi-0.2.3-blue)](https://pypi.org/project/NeuroUtils/)
+[![Static Badge](https://img.shields.io/badge/NeuroUtils_GitHub-0.2.3-purple)](https://github.com/Se-Boruk/NeuroUtils) [![Static Badge](https://img.shields.io/badge/NeuroUtils_PyPi-0.2.3-blue)](https://pypi.org/project/NeuroUtils/)
 
 This project aims to achieve human like accuracy of prediction on Cifar10 dataset (94%), using library NeuroUtils. 
 
@@ -12,19 +12,19 @@ airplane - automobile - bird - cat - deer - dog - frog - horse - ship - truck
 ## Results
 - **F scores analysis plots**
 
-![alt text](https://github.com/Ciapser/Cifar10_Classification/blob/master/ReadMe_files/Test%20F%20scores.jpg)
+![alt text](https://github.com/Se-Boruk/Cifar10_Classification/blob/master/ReadMe_files/Test%20F%20scores.jpg)
 
 - **Train_history**
 
-![alt text](https://github.com/Ciapser/Cifar10_Classification/blob/master/ReadMe_files/Overall%20train%20history.jpg)
+![alt text](https://github.com/Se-Boruk/Cifar10_Classification/blob/master/ReadMe_files/Overall%20train%20history.jpg)
 
 - **Confusion matrix** 
 
-![alt text](https://github.com/Ciapser/Cifar10_Classification/blob/master/ReadMe_files/Conf_matrix%20Test.jpg)
+![alt text](https://github.com/Se-Boruk/Cifar10_Classification/blob/master/ReadMe_files/Conf_matrix%20Test.jpg)
 
 - **Model PDF report** 
 
-![alt text](https://github.com/Ciapser/Cifar10_Classification/blob/master/ReadMe_files/Model_preview.jpg)
+![alt text](https://github.com/Se-Boruk/Cifar10_Classification/blob/master/ReadMe_files/Model_preview.jpg)
 
 ## Fast usage
 If you want to use the model just go into the **Actual_best_result** folder and download pretrained model with all metadata including training and specification of the model.
